@@ -1,11 +1,11 @@
-About r-benchmarkmedata
-=======================
+About r-benchmarkmedata-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-benchmarkmedata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/csgillespie/benchmarkme-data
 
 Package license: GPL-2 | GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-benchmarkmedata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Crowd sourced benchmarks from running the 'benchmarkme' package.
 
