@@ -1,4 +1,4 @@
-{% set version = "1.0.4" %}
+{% set version = "2.0.0" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/benchmarkmeData_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/benchmarkmeData/benchmarkmeData_{{ version }}.tar.gz
-  sha256: 6e0768db1c783d2fa84d5214f3d8024dc9c69c7cc4d108059fa652fcd4949bd8
+  sha256: a8dacf85a1c548d011299dca78ec376a7fbea68d0b6482e763dca7685bad1417
 
 build:
-  number: 5
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
